@@ -8,4 +8,11 @@
 Link : https://sara-majdi.github.io/DrumKit/
 </br>
 </br>
-Files included:
+Files Included in the repository are : 
+</br>
+📁 Drumkit HTML file
+📁 Drumkit CSS file
+📁 Drumkit JS file
+</br>
+</br>
+
